@@ -7,21 +7,22 @@ Bold
 Italics and Bold
 **_If you're thinking to yourself, This is unbelievable, you'd probably be right._**
 Chapter 2
-Headers
-#Header one#
-##Header two##
-###Header three### 
-####Header four####
-#####Header five#####
-######Header six######
+**Headers**
 
-####Colombian Symbolism in One Hundred Years of Solitude####
+# Header one #
+## Header two ##
+### Header three ### 
+#### Header four ####
+##### Header five #####
+###### Header six ######
+
+#### Colombian Symbolism in One Hundred Years of Solitude ####
 Here's some words about the book _One Hundred Years..._.
 Chapter 3
 Links
 [Search for it](www.google.com)
 [**You're really, really going to want to see this.**](www.dailykitten.com.)
-####The Latest News from [the BBC](www.bbc.com/news)####
+#### The Latest News from [the BBC](www.bbc.com/news) ####
 Do you want to [see something fun][a fun place]?
 Well, do I have [the website for you][another fun place]!
 [a fun place]: (www.zombo.com)
